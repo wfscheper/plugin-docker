@@ -1,0 +1,3 @@
+[submodule "completions"]
+	path = completions
+	url = https://github.com/barnybug/docker-fish-completion.git
